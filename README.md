@@ -1,7 +1,7 @@
 ## Ecommerce_Purchase :- Web-Scrapping(Flipkart.com)
 
 #### About The Data:- 
-- The data is from :- 
+- The data is from :- https://www.flipkart.com/search?q=mi+phone&sid=tyy%2C4io&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_2_4_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_2_4_na_na_na&as-pos=2&as-type=RECENT&suggestionId=mi+phone%7CMobiles&requestId=8944ba32-7637-4f8b-b1ad-cc306f1c9e91&as-backfill=on
 - Web scrapping is done on flipkart Mi Products Review and Extraction of  data
 
 - Extracting the Mi product procedure are as follows:- 
